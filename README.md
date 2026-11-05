@@ -1,0 +1,2 @@
+# NOVARIDGE
+Company static website
